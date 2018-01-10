@@ -1,6 +1,6 @@
 # Room-RxJava-RxKotlin
 
-### Contact - Let's connect to each other
+### Contact - Let's connect to learn together
 - [Twitter](https://twitter.com/KumarAnkitRKE)
 - [Github](https://github.com/AnkitDroidGit)
 - [LinkedIn](https://www.linkedin.com/in/kumarankitkumar/)
